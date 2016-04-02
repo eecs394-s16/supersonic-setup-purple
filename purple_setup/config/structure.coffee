@@ -33,6 +33,14 @@ module.exports =
       id: "using-the-scanner"
       location: "example#using-the-scanner"
     }
+    {
+      id: "team-purple-page"
+      location: "example#team-purple-page"
+    }
+    {
+      id: "jokes"
+      location: "example#jokes"
+    }
   ]
 
   # drawers:
